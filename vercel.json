@@ -4,10 +4,6 @@
     "app": {
       "root": ".",
       "framework": "nextjs"
-    },
-    "mcp": {
-      "root": "packages/mcp",
-      "runtime": "node"
     }
   },
   "rewrites": [
